@@ -1,2 +1,2 @@
 # api
-Malatya hava durumunu dödüren api.
+Malatya hava durumunu döndüren api.
