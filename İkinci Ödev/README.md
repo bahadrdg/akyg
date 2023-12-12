@@ -1,2 +1,2 @@
 # api
-Malatya havadurumunu dödüren api.
+Malatya hava durumunu dödüren api.
